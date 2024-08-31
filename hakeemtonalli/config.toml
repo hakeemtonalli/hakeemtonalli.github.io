@@ -1,0 +1,4 @@
+baseURL = 'https://hakeemtonalli.github.io/'
+languageCode = 'en-us'
+title = 'Hakeem'
+theme="hugo-theme-console-dark"
