@@ -1,4 +1,13 @@
 baseURL = 'https://hakeemtonalli.github.io/'
 languageCode = 'en-us'
-title = 'Hakeem'
+title = 'hakeem'
 theme="hugo-theme-console-dark"
+
+
+[params]
+  titleCutting = true
+  animateStyle = "animated zoomIn fast" 
+
+  [[params.navlinks]]
+  name = "photos/"
+  url = "photos/"
